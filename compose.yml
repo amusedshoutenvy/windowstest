@@ -3,7 +3,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "tiny10"  
+      VERSION: "2008"  
      RAM_SIZE: "2G"
     CPU_CORES: "2"
     DISK_SIZE: "30G"
